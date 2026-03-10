@@ -1,1 +1,2 @@
-select * from job_postings_fact;
+select * from job_postings_fact
+where job_country='Bangladesh';
