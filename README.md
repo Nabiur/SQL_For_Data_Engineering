@@ -1,5 +1,7 @@
 # SQL for Data Engineering
 
+![SQL](https://img.shields.io/badge/Language-SQL-4479A1) ![DuckDB](https://img.shields.io/badge/Engine-DuckDB-FFF000?logo=duckdb&logoColor=black) ![Track](https://img.shields.io/badge/Track-Data%20Engineering-1F6FEB)
+
 ## Overview
 This repository contains SQL practice and mini-analysis work focused on data engineering use cases. It includes exploratory analytics queries and DuckDB experiments for job-market style datasets.
 
